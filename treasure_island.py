@@ -21,13 +21,13 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 /______/______/______/______/______/______/______/______/______/______/_____ /
 *******************************************************************************
 ''')
-print("Bine te-am gasit aventurierule!\nAceasta este provocarea insulei amazoanelor!\nCrezi ca poti fura Vibratorul placat cu aur al Printesei Eveline pentru a il vinde si sa te imbogatesti?\nIncearca daca ai tupeu!\nSucces!")
+print("Bine te-am gasit aventurierule!\nAceasta este provocarea insulei amazoanelor!\nCrezi ca poti fura Diamantul Printesei Eveline pentru a il vinde si sa te imbogatesti?\nIncearca daca ai tupeu!\nSucces!")
 print("*******************************************************************************")
 
 #https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Treasure%20Island%20Conditional.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1oDe4ehjWZipYRsVfeAx2HyB7LCQ8_Fvi%26export%3Ddownload
 
 #Write your code below this line 👇
-aventura = input("Te aventuriezi pe insula amazoanelor incercand sa furi Vibratorul placat cu aur al Printesei Eveline?\n > da sau nu:  ")
+aventura = input("Te aventuriezi pe insula amazoanelor incercand sa furi Diamantul Printesei Eveline?\n > da sau nu:  ")
 if aventura == "da":
   print("Ajungi intr-un port cu mai multe barci si vapoare.\nO data ajuns in port trebuie sa alegi in care barca vei urca,")
   time.sleep(2)
@@ -539,7 +539,7 @@ if aventura == "da":
         time.sleep(5)
         print("In cele din urma ajung pe insula si zaresc o cladire inalta ce pare a fi un palat.")
         time.sleep(5)
-        print("Ma indrept spre cladirea inalta fiind sigur pe mine ca acolo se afla Vibratorul placat cu aur al Printesei!")
+        print("Ma indrept spre cladirea inalta fiind sigur pe mine ca acolo se afla Diamantul Printesei!")
         time.sleep(5)
         print("Dar pe drum dau de un grup de femei frumoase in armura ce chicoteau si nu pareau sa ma observe.")
         print("Le evit sau le salut?")
@@ -555,7 +555,7 @@ if aventura == "da":
             time.sleep(5)
             print("Acum ma aflu in interiorul palatului Printesei Eveline.")
             time.sleep(5)
-            print("Pentru a nu pierde nici-un minut, incep sa caut Vibratorul placat cu aur!")
+            print("Pentru a nu pierde nici-un minut, incep sa caut Diamantul!")
             time.sleep(5)
             print("Din exteriorul castelului aud mai multe voci de femeie printre care:")
             time.sleep(5)
@@ -575,13 +575,13 @@ if aventura == "da":
             time.sleep(5)
             print("Acum ma aflu in interiorul palatului Printesei Eveline.")
             time.sleep(5)
-            print("Pentru a nu pierde nici-un minut incep sa caut Vibratorul placat cu aur!")
+            print("Pentru a nu pierde nici-un minut incep sa caut Diamantul!")
             time.sleep(5)
             print("Dau peste o incapere eleganta, cu un pat matrimonial bine intretinut, tablouri pe pereti si miros de Lavanda.")
             time.sleep(5)
             print("Observ ca langa pat se aflau 2 noptiere iar pe una dintre ele era un obiect lung si gros aurit.")
             time.sleep(5)
-            print("Ma apropii de obiectul aurit si realizez ca acesta trebuie sa fie Vibratorul placat cu aur al Printesei Eveline!")
+            print("Ma apropii de obiectul aurit si realizez ca acesta trebuie sa fie Diamantul Printesei Eveline!")
             time.sleep(5)
             print("Insfac comoara si imi planific intoarcerea mea cand pe cealalta noptiera observ un cristal galben.")
             time.sleep(5)
